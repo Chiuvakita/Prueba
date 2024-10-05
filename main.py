@@ -59,4 +59,3 @@ if __name__ == "__main__":
         menu_principal(usuario_data)
     else:
         print("Finalizando el programa.")
- hggh
